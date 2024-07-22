@@ -12,5 +12,5 @@ The 'Todos' is a task management application that allows users to create, manage
   - Lodash: Utility library for convenient data manipulation.
   - GitHub Pages: Hosting service used to publish the static web page directly from the GitHub repository.
 
-3. [Demo link](https://alinaovod.github.io/to-do-app/)
-4. [Project layout](https://github.com/AlinaOvod/to-do-app)
+## 3. [Demo link](https://alinaovod.github.io/to-do-app/)
+## 4. [Project layout](https://github.com/AlinaOvod/to-do-app)
