@@ -64,11 +64,17 @@
     &:hover {
       color: #af5b5e;
     }
+
+    @media (max-width: 768px) {
+      opacity: 1;
+    }
   }
 
   &:hover &__remove {
     opacity: 1;
+    pointer-events: auto;
   }
+
 
   &__title-field {
     width: 100%;
